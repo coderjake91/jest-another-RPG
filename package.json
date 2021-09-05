@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Node.js command-line RPG game built using OPP and TDD concepts",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderjake91/jest-another-RPG.git"
+  },
+  "author": "Jacob Frazer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderjake91/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/coderjake91/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
